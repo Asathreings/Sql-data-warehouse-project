@@ -26,8 +26,14 @@ This project involves:
 🛡️ License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
 🌟 About Me
 
-Hi there! I'm Asath,I’m an IT professional Working as Business analyst
+Hi there! I'm Asath, Working as Business analyst
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Let's stay in touch!
+
+## Acknowledgements
+
+The initial project structure and learning framework were inspired by the SQL Data Warehouse project by Data With Baraa. The implementation, documentation, enhancements, and analytical components in this repository were developed and customized as part of my learning journey in Data Engineering and Analytics.
+
